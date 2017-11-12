@@ -4,7 +4,10 @@ Unfortunately, Jack fell down and hurt his head.
 
 Fortunately, not a drop of water was spilled.
 
-Fortunately, Jack is happy.
+Unfortunately, Jack was going to roll to the cliff.
 
-Unfortunately, Jill is unhappy.
+Fortunately, Jill saved Jack.
 
+Unfortunately, both Jill and Jack were targeted by hunters.
+ 
+Fortunately, the hunter is a beginner.
