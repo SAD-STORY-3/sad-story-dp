@@ -11,3 +11,8 @@ Fortunately, Jill saved Jack.
 Unfortunately, both Jill and Jack were targeted by hunters.
  
 Fortunately, the hunter is a beginner.
+
+Unfortunately, Jill is unhappy.
+
+Fortunately,Jack is happy.
+
